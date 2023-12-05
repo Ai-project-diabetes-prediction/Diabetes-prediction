@@ -10,7 +10,7 @@ This data set is avaliable on kaggle
 # Methodology 
 We have used CRISP DM methodology.
 
-Breif introduction of steps we followed in the model building can be found in the jupyter notebook
+Breif introduction of steps we followed in the  Data processing and model building  can be found in the jupyter notebook
 
 # Model
 
